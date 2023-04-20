@@ -1,2 +1,2 @@
 # R-programming
-This repository contains files from a course in my masters in data science program i am pursuing at Northwestern
+This repository contains .R and .RMD files from a course taken in my Masters in Data Science program at Northwestern
